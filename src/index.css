@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+* {
+        box-sizing: border-box;
+        font-family: "TCCC-UnityHeadline Regular";
+        margin: 0px;
+        padding: 0px;
+      }
+@tailwind utilities;
+
